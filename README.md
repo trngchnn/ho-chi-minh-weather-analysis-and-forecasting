@@ -1,12 +1,15 @@
 # Ho Chi Minh City Weather: EDA & Predictive Modeling
 
-## 1. Giới thiệu đề tài
-Tên dự án: Phân tích mối quan hệ giữa nhiệt độ, độ ẩm và lượng mưa tại Thành phố Hồ Chí Minh giai đoạn 2009 - 2020 bằng mô hình hồi quy tuyến tính.
+# Ho Chi Minh City Weather: EDA & Predictive Modeling
 
-Dự án tập trung vào việc nghiên cứu mối quan hệ giữa các yếu tố khí tượng lịch sử tại Thành phố Hồ Chí Minh và xây dựng mô hình học máy (Machine Learning) để dự báo trạng thái thời tiết. Đây là sản phẩm nghiên cứu thực hành được triển khai bởi nhóm 2 người trong khuôn khổ hoạt động của Câu lạc bộ Nghiên cứu Khoa học.
+## 1. Thông tin chung
+* **Đề tài:** Phân tích dữ liệu khí tượng và xây dựng mô hình dự báo thời tiết tại Thành phố Hồ Chí Minh.
+* **Bối cảnh:** Dự án nghiên cứu thực hành trong khuôn khổ Câu lạc bộ Nghiên cứu Khoa học Sinh viên.
+* **Thời gian thực hiện:** Tháng 1/2026
+* * **Nhóm thực hiện:** 02 thành viên.
+* **Vai trò cá nhân:** Chịu trách nhiệm chính trong việc Phân tích khám phá dữ liệu (EDA), Xử lý biến thời gian (Datetime), Trực quan hóa xu hướng và Tối ưu hóa mô hình học máy nâng cao.
 
-* **Bối cảnh:** Dự án thực hành với bối cảnh là thành viên của Câu lạc bộ Nghiên cứu Khoa học Sinh Viên (Nhóm 2 người).
-* **Vai trò cá nhân:** Chịu trách nhiệm chính trong việc Phân tích khám phá dữ liệu (EDA), Xử lý biến thời gian, Trực quan hóa xu hướng và Tối ưu hóa mô hình học máy nâng cao.
+* **Thông tin chung:** Dự án tập trung vào việc nghiên cứu mối quan hệ giữa các yếu tố khí tượng lịch sử tại Thành phố Hồ Chí Minh và xây dựng mô hình học máy (Machine Learning) để dự báo trạng thái thời tiết. Nghiên cứu sử dụng chuỗi số liệu giai đoạn 2009-2020 để khai thác tính quy luật của thời tiết đô thị, phục vụ cho các bài toán phân tích xu hướng khí hậu.
 
 ## 2. Mục tiêu nghiên cứu
 * Xử lý và chuẩn bị dữ liệu thời tiết lịch sử tại TP. Hồ Chí Minh giai đoạn 2009-2020.
