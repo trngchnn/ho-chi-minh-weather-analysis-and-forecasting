@@ -1,4 +1,4 @@
-# Ho Chi Minh City Weather: EDA & Predictive Modeling
+# HCMC Weather Forecasting: Phân tích dữ liệu khí tượng và mô hình hóa dự báo thời tiết tại Thành phố Hồ Chí Minh
 
 ## 1. Thông tin chung
 * **Đề tài:** Phân tích dữ liệu khí tượng và xây dựng mô hình dự báo thời tiết tại Thành phố Hồ Chí Minh.
