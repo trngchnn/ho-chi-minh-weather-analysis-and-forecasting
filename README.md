@@ -2,6 +2,7 @@
 
 ## 1. Giới thiệu đề tài
 Tên dự án: Phân tích mối quan hệ giữa nhiệt độ, độ ẩm và lượng mưa tại Thành phố Hồ Chí Minh giai đoạn 2009 - 2020 bằng mô hình hồi quy tuyến tính.
+
 Dự án tập trung vào việc nghiên cứu mối quan hệ giữa các yếu tố khí tượng lịch sử tại Thành phố Hồ Chí Minh và xây dựng mô hình học máy (Machine Learning) để dự báo trạng thái thời tiết. Đây là sản phẩm nghiên cứu thực hành được triển khai bởi nhóm 2 người trong khuôn khổ hoạt động của Câu lạc bộ Nghiên cứu Khoa học.
 
 * **Bối cảnh:** Dự án thực hành Nghiên cứu Khoa học (Nhóm 2 người).
